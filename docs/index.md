@@ -1,2 +1,2 @@
 # Índice
-![](./images/Banderamexico.png)
+![](./images/BanderaMexico.png)
